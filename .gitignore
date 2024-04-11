@@ -1,2 +1,5 @@
-/.idea
-/venv
+# IDE configuration
+.idea/
+
+# local venv
+venv/
