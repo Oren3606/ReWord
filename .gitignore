@@ -1,5 +1,4 @@
-# IDE configuration
 .idea/
-
-# local venv
+ReWord.iml
 venv/
+__pycache__/
